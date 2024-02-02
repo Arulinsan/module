@@ -1,5 +1,5 @@
 package module_main
 
-func Main_module(name string) string {
-	return name
+func Main_module() string {
+	return "modul"
 }
